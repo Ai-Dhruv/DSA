@@ -13,6 +13,10 @@
 // Once you reach a tree with fruit that cannot fit in your baskets, you must stop.
 // Given the integer array fruits, return the maximum number of fruits you can pick.
 
+// git add .
+// git commit -m "Add question 11"
+// git push
+
 class Solution {
     public int totalFruit(int[] fruits) {
         int n = fruits.length;
