@@ -1,9 +1,5 @@
 
-// Code
-// Testcase
-// Testcase
-// Test Result
-// Test Result
+
 // 387. First Unique Character in a String
 // Solved
 // Easy
